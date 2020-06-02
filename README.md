@@ -3,4 +3,4 @@ Just a repository with some custom icons for Blender to help when you are workin
 That's all. Hope it helps.
 \
 \
-![alt text](https://i.imgur.com/q2PE9ZD.png)
+![alt text](https://i.imgur.com/r2BRxiK.png)
