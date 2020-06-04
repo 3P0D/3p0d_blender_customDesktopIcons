@@ -1,6 +1,6 @@
 # Blender Custom Desktop Icons
-Just a repository with some custom icons for Blender to help when you are working with different versions. \
-That's all. Hope it helps.
+Just a repository of some custom icons to make your life easier when you are working on several versions of Blender at the same time.
+That's it. That's the whole thing. Hope it helps! 
 \
 \
 ![alt text](https://i.imgur.com/r2BRxiK.png)
