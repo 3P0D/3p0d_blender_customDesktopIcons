@@ -4,3 +4,7 @@ That's it. That's the whole thing. Hope it helps!
 \
 \
 ![alt text](https://i.imgur.com/r2BRxiK.png)
+
+\
+## License
+Made by 3P0D, 2020. CC-BY
